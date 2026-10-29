@@ -437,7 +437,6 @@ export function ResourcesClient() {
           })}
         </div>
       </section>
-
       <QuickJump />
 
       {/* Resources to level up */}
